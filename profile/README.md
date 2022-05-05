@@ -1,13 +1,11 @@
 <p align="center">
-  <a href="https://sapic.rtfd.vip/" target="_blank">
+  <a href="https://sapic.rtfd.vip/">
     <img src="https://sapic.rtfd.vip/zh_CN/latest/_images/sapic.png" alt="Sapic Documentation" width="180">
   </a>
 </p>
-<p align="center">
-  <b>简约不小气的自建图床程序</b>
-</p>
 
 ---
+
 正式名称：**sapic**
 
 基于 Flask 的 Web 自建图床，默认存储在本地， 内置支持又拍云、七牛云、阿里云OSS、腾讯云COS、S3等对象存储，支持GitHub、Gitee（码云）。
